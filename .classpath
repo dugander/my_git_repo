@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry excluding="my_git_repo/|my_git_repo/my_git_repo/" kind="src" path="src"/>
 	<classpathentry kind="src" path="src/my_git_repo/my_git_repo"/>
+	<classpathentry excluding="src/|src/my_git_repo/my_git_repo/" kind="src" path=""/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
